@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scotland against popery, or, Christ's day against Antichrist or An account of the manner of the burning of the Popes effigies upon Christmas day last 1680 in the city of Edenborough, sent in two letters from two several friends to a citizen of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49576</idno>
+            <idno type="STC">Wing L43</idno>
+            <idno type="STC">ESTC R9852</idno>
+            <idno type="EEBO-CITATION">13546223</idno>
+            <idno type="OCLC">ocm 13546223</idno>
+            <idno type="VID">100133</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100133)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 461:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotland against popery, or, Christ's day against Antichrist or An account of the manner of the burning of the Popes effigies upon Christmas day last 1680 in the city of Edenborough, sent in two letters from two several friends to a citizen of London.</title>
+                  <author>L. L.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The second letter by L. L.  Cf.  B. M.</note>
+                  <note>Also published, together with a third letter by L. L., under the title of "The history of the late proceedings of the students of the College of Edenborough."  Cf.  B.M.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Scotland --  Edinburgh (Lothian)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100133:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 76 -->
+            <p>SCOTLAND AGAINST POPERY, OR Chriſts Day AGAINST ANTICHRIST; OR An account of the manner of the burning of the Popes Effigies UPON CHRISTMAS DAY Laſt 1680. in the CITY OF EDENBOROUGH, Sent in two Letters from two ſeveral Friends to a CITIZEN of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Janeway,</hi> in Queens-head Alley in <hi>Pater Noſter-Row,</hi> MDCLXXXI.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="letter">
+            <pb facs="tcp:100133:2"/>
+            <!-- PDF PAGE 77 -->
+            <pb facs="tcp:100133:2"/>
+            <!-- PDF PAGE 77 -->
+            <head>THE FIRST LETTER.</head>
+            <p>THE manner of it was thus, They had taken up a reſolution to Celebrate this Pageant a week or a fortnight before to which all generally conſented. In order whereto they employed a Carver who erected them a Wood<g ref="char:EOLhyphen"/>en Holyneſs or a Pope in Effigy with Cloaths, Tripple Crown, Keys and other neceſſary habiliments, for which there was a general Collection amongſt the Students. All things being in readineſs on <hi>Thurſday</hi> night, they ac<g ref="char:EOLhyphen"/>quainted ſome others with it, by which the rumor came to the <hi>Provoſts</hi> Ears, who was ſo enraged that he ſent for the <hi>Primier</hi> and <hi>Regents,</hi> Commanding them to or<g ref="char:EOLhyphen"/>der the Students to deſiſt from their enterprize with menaces, that if they would not he would make it a bloody <hi>Chriſtmas</hi> to ſome of them.</p>
+            <p>After which he went down to the <hi>Abby,</hi> to acquaint the <hi>Duke</hi> and <hi>Chancellor</hi> with it. The former was much moved, and the latter ſwore a great Oath that if they undertook it he would order ſix hundred of <hi>Lith<g ref="char:EOLhyphen"/>gows</hi> Regiment to be brought within the Town. (Which is an infringment of the Legal Priviledges of the City) To Cut down all Students where ever they ſaw above four or five aſſembled together. Order alſo was given that the Guards ſhould be doubled.</p>
+            <p>But the Students, not being at all diſmayed, went on with an intire reſolution to accompliſh the project in purſuance of which they would live or die together. Be<g ref="char:EOLhyphen"/>ing encouraged by Merchants and Tradeſmen, who by this time were acquainted with their purpoſe, and came and offered their aſſiſtance, yea moſt of the Town, excepting the Magiſtrates, reſolved if <hi>Lithgows</hi> men were brought in
+<pb facs="tcp:100133:3"/>
+               <!-- PDF PAGE 78 -->they would Lay out the Blew Blanket Flag, ſeldome laid out and taken in without Blood-ſhed.</p>
+            <p>The day being come, they all as well Students as Ap<g ref="char:EOLhyphen"/>prentices with others convened in the Morning, and at nine a Clock (the Soldiers not being as yet brought in), the Lads took their opportunity and carried the Pageant to the High-ſtreet, (the Duke being then in the Council-houſe) and immediatly ſet fire to it, ſhouting no Pope, no Pope. Every old Wife thought her ſelf happy that could get a ſtroke at it, and made as great a noiſe as any, Cur<g ref="char:EOLhyphen"/>ſing the Pope and bleſſing the Students, but they were not well ſeparated till General <hi>Daliel</hi> with <hi>Lithgows</hi> men came rageing through the ſtreets like Lions, but they being but one Company they were not regarded.</p>
+            <closer>
+               <signed>SIR, <hi>Your Servant.</hi>
+               </signed>
+               <dateline>Chriſtmas Day, <date>
+                     <hi>1680,</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="2" type="letter">
+            <pb n="3" facs="tcp:100133:3"/>
+            <!-- PDF PAGE 78 -->
+            <head>THE Second Letter From another Friend at <hi>Edenbrough,</hi> giv<g ref="char:EOLhyphen"/>ing an Account of the ſame.</head>
+            <opener>
+               <dateline>
+                  <hi>Edenb.</hi>
+                  <date>
+                     <hi>Decemb.</hi> 25. 1680.</date>
+               </dateline>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis Night I intend you only the Diverſion of our <hi>Chriſtmas;</hi> ſome days ſince the Boyes of the <hi>Col<g ref="char:EOLhyphen"/>ledge</hi> took a conceipt to <hi>Burn</hi> the <hi>Pope,</hi> and <hi>Anti<g ref="char:EOLhyphen"/>chriſt,</hi> on <hi>this day, as moſt proper for it.</hi>
+            </p>
+            <p>They ordered the <hi>Pope</hi> and his <hi>Formalities,</hi> to be pre<g ref="char:EOLhyphen"/>pared in good Faſhion, with his <hi>Mitre, Croſier, Pastoral Staff,</hi> and <hi>Robes;</hi> but the thing taking Air, is brought to my <hi>Lord Chancellor</hi>'s Ears, who judging rightly how neceſſary it was at this Time, to prevent the beginnings of ſuch Inſolencies, ſent for the <hi>Magiſtrates,</hi> and enjoyn<g ref="char:EOLhyphen"/>ed them very ſtrictly, to be careful to hinder it; The <hi>Magiſtrates</hi> called the <hi>Principal,</hi> and <hi>Regents;</hi> and after ſe<g ref="char:EOLhyphen"/>vere Intimations to the Boyes, the <hi>Principal</hi> cauſes a <hi>Bond</hi> to be tendred to them, whereby, conſidering of what dangerous conſequence it might be to <hi>Burn</hi> the <hi>Pope in Effigie,</hi> they were to bind neither to do it this day, nor hereafter: Some <hi>Bearnes</hi> took it, but the reſt of the Claſſis inſolently refuſed it; and ſo the thing coming to be more apprehended, I am told, that ſome
+<pb n="4" facs="tcp:100133:4"/>
+               <!-- PDF PAGE 79 -->of the <hi>Council</hi> met Yeſterday for the Preventing of it, and the <hi>Principal Officers</hi> of the <hi>Forces</hi> were in Arms moſt part of the Night, that they brought the <hi>Companies</hi> from <hi>Leith,</hi> and gathered all the <hi>Forces</hi> about, to the <hi>Cannogate,</hi> without beating of <hi>Drums,</hi> that our <hi>Magiſtrates</hi> were up all Night; the <hi>Provoſt</hi> in the <hi>Court of Guard,</hi> and the <hi>Bailiffs</hi> at the <hi>Ports,</hi> and this Morning early the <hi>Gray-Coats, the Town-Guards,</hi> went to the <hi>Colledge,</hi> and ſome other Houſes, conducted by the <hi>Town-Mayor,</hi> and ſeized ſeveral Scholars judged to be moſt active, in their Beds, and committed them to the <hi>Cannogate Tolbooth,</hi> where they ſtill lie; two or three of them are <hi>Engliſh Boyes,</hi> but they ſay innocently ſuſpected; one of them is ſaid to be one <hi>Gray,</hi> Son to Sir <hi>Phil. Gray.</hi> A little after Day the <hi>Magiſtrates</hi> ſent the <hi>Town-Guards</hi> again to the <hi>Colledge,</hi> to prevent any <hi>Rendezvouſe</hi> there, but the <hi>Boyes</hi> in the mean time met in a place called the <hi>High-School-Yard;</hi> and having ordered the <hi>Pope,</hi> and taken the beſt Opportunity, they bring the <hi>Pope</hi> up <hi>Black-Fryers</hi>— to the <hi>High Street,</hi> juſt about the Time that a <hi>Bailiff</hi> ordered by the <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> was come that length diſcharging tumultuous Meetings, and commanding our <hi>Train-Bands</hi> to be in <hi>Arms;</hi> but the Boyes took the Paper from the Officer; and having read a ſhort Accuſation againſt His <hi>Holineſs,</hi> they ſet Fire to him with Links, having ordered a Train with<g ref="char:EOLhyphen"/>in him. About the ſame Time <hi>General Daliel</hi> getting the <hi>Alarm,</hi> for which he was in readineſs, ſends in a <hi>Squadron</hi> of His <hi>Majeſties Horſe-Guard,</hi> conducted by the <hi>Lord L</hi>—. with <hi>Kettle-Drums,</hi> the <hi>Kings Standard,</hi> and <hi>Swords drawn,</hi> by the <hi>Cowgate Port,</hi> who rid in great haſte to the <hi>Graſs-Market;</hi> and the General himſelf, with other Companies, follow them with no leſs haſte the ſame way; the Com<g ref="char:EOLhyphen"/>panies being followed with three Men carrying <hi>Ball, Match</hi> and <hi>Powder;</hi> and by the <hi>Nether-Bow-Port</hi> enters the <hi>E. of Marr,</hi> about the ſame Time with two <hi>Companies</hi> drawn up in one; and before he came the length, the E.
+<pb n="5" facs="tcp:100133:4"/>
+               <!-- PDF PAGE 79 -->of <hi>Linlithgow</hi> paſſing by where the <hi>Pope</hi> was firſt fired, draws his Sword, and drives off the Boyes, though they were rude enough; and coming to the <hi>Burning Pope,</hi> he turned him over, and cauſed his Men to draw him under the weynd head; but they fearing <hi>Powder</hi> in the <hi>Pope's Belly,</hi> left him; and the Lads beat the <hi>Pope</hi> with Sticks until the Powder took fire, and blew off his head, and then they took the Head and Chair, and haled him through all the Streets to the Weigh-houſe: The <hi>E.</hi> of <hi>Marr</hi> marching faſt after them with his two Companies; but the Chair being then broke, the Boyes ſcattered, only they toſſed the Head a while, and the <hi>E.</hi> of <hi>Marr</hi> returned as he went up, and the <hi>General</hi> came from the <hi>Graſs-Market</hi> down the <hi>High-Street,</hi> and the <hi>King's Guard</hi> in the ſame poſture as they came in. We have alſo had good <hi>Guards</hi> to day, to ſuppreſs the remains of the diſorder, our <hi>Train-Bands</hi> came not together, yet I muſt aſſure you, that in all this buſi<g ref="char:EOLhyphen"/>neſs there were none but <hi>Boyes</hi> only. You may ſee how careful we are to prevent the <hi>Extravagancies</hi> that abound with you, for otherwiſe all the world knows what <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> we are: You need not doubt but this <hi>Shew</hi> would gather concourſe enough, and the People cryed, <hi>No Pope, No Pope,</hi> and made ſport enough of the whole. This Account I hope will help you to paſs your <hi>Chriſtmas</hi> the more <hi>merrily.</hi> I am Sir Your Humble Servant.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
